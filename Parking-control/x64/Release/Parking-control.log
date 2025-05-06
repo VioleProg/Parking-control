@@ -1,0 +1,3 @@
+﻿  main.cpp
+MSVCRT.lib(exe_winmain.obj) : error LNK2001: símbolo externo não resolvido WinMain
+C:\Users\Johnn\Desktop\Parking-control\x64\Release\Parking-control.exe : fatal error LNK1120: 1 externo não resolvidos
