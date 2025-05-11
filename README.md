@@ -13,11 +13,11 @@ This is a lightweight Windows GUI application written in C++ that features a gra
 
 **Folder Structure:**
 
-![Folder Structure](https://prnt.sc/YseRfHhIDdG-)
+https://prnt.sc/YseRfHhIDdG
 
 **Application Running:**
 
-![Application Running](https://prnt.sc/f0c6-r6cQCGo)
+https://prnt.sc/f0c6-r6cQCGo
 
 ## File Overview
 
@@ -30,10 +30,14 @@ This is a lightweight Windows GUI application written in C++ that features a gra
 
 ```json
 [
-  "entryTime": "2025-05-05 12:34:14",
-        "expectedExitTime": "2025-05-05 14:34:14",
-        "login": "viole",
-        "name": "Jonathan Coutinho de Moura Cruz",
-        "password": "123",
-        "placa": "JJJ-123"
+  {
+    "username": "admin",
+    "password": "123456",
+    "role": "administrator"
+  },
+  {
+    "username": "guest",
+    "password": "guest",
+    "role": "viewer"
+  }
 ]
