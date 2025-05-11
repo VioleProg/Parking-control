@@ -30,14 +30,10 @@ This is a lightweight Windows GUI application written in C++ that features a gra
 
 ```json
 [
-  {
-    "username": "admin",
-    "password": "123456",
-    "role": "administrator"
-  },
-  {
-    "username": "guest",
-    "password": "guest",
-    "role": "viewer"
-  }
+  "entryTime": "2025-05-05 12:34:14",
+        "expectedExitTime": "2025-05-05 14:34:14",
+        "login": "viole",
+        "name": "Jonathan Coutinho de Moura Cruz",
+        "password": "123",
+        "placa": "JJJ-123"
 ]
